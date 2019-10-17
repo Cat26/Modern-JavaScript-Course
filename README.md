@@ -9,7 +9,9 @@
 [Loan Calculator](https://cat26.github.io/Modern-JavaScript-Course/LoanCalculator/index.html)
 3. Number Guesser:
 [Number Guesser](https://cat26.github.io/Modern-JavaScript-Course/NumberGuesser/index.html)
-## Object Oriented Projekts:
+## Object Oriented Projects:
 1. Book List:
 [Book List](https://cat26.github.io/Modern-JavaScript-Course/Book-List/index.html)
+## API Projects
+1. Github Finder
 

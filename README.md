@@ -14,4 +14,4 @@
 [Book List](https://cat26.github.io/Modern-JavaScript-Course/Book-List/index.html)
 ## API Projects
 1. Github Finder
-
+[Github Finder](https://cat26.github.io/Modern-JavaScript-Course/GithubFinder/index.html)
